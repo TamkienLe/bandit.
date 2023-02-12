@@ -1,5 +1,3 @@
-# bandit.
-
 # hackathon
 uottahack 5 repo
 
